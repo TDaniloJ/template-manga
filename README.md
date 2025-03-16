@@ -1,7 +1,7 @@
-## What is this?
-This is a template for manga website, show and publish manga everyday.
+## O que é isso?
+Este é um modelo para um site de mangá, exiba e publique mangás todos os dias.
 
-## Project Detail
+## Detalhe do Projeto
 * html 5
 * css 3
 * JQuery
