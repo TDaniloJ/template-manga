@@ -76,7 +76,7 @@ table tbody tr td {
 }
 
 .navbar .search .input-group {
-    width: 100%;
+    width: 90%;
 }
 
 .navbar .search input[type='text'] {border-radius: 100px 0 0 100px;}
@@ -96,7 +96,7 @@ table tbody tr td {
 }
 .navbar .profile .btn:hover {color: #070707;}
 
-.navbar .profile .saved span, .navbar .profile .saved a:last-of-type {color: #ab201c;}
+.navbar .profile .saved span, .navbar .profile .saved a:last-of-type {color: #1c5aab; font-weight: bold;}
 
 .navbar .profile .account, .navbar .profile .saved {display: inline-block;}
 
@@ -262,13 +262,39 @@ table tbody tr td {
 
 
 
+
 /* end ch */
 
+
+.auto-navigation {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+.dropdown-header {
+    padding: 5px 15px;
+}
+
+.dropdown-item:hover {
+    background-color: #7c7a7a7c;
+}
 /* start vol */
 
 
 
 /* end vol */
+
+.manga-page img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+#page-container img {
+    display: block;
+    margin: 0 auto;
+}
 
 /* start related */ 
 
